@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Ph.D. candidate. Problem Solver. Tech Enthusiast. Self-proclaimed Musician. Goes by "<u>Riddhi</u>". (<a href="/assets/img/name_in_bengali.png" target="blank">my name in Bengali</a>)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: adib_pic.jpg # prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Graduate Research Assistant, Ubicomp Lab,</p>
+    <p>Dept. of Computer Science,</p>
+    <p>Marquette University,</p>
+    <p>Milwaukee, WI 53233, USA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in Computer Science at Marquette University, currently at my 4th year, working as a Graduate Research Assistant at the Ubicomp Lab.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Working under the supervision of my Ph.D. Supervisor, [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/){:target='\_blank'}, and with direct guidance from [Dr. Mohammad Adibuzzaman](https://adibzaman.github.io/){:target='\_blank'}, I am actively working in the field of Causal Inference. My primary focus is to apply `Causal Inference` and related theories in exploring cause-and-effect relationships in experimental and observational datasets. In the past, I have worked on multiple projects involving `mobile health and computing`, `ubiquitous computing`, `crisis management`, etc. Here’s a [list](https://adib2149.github.io/research) of all the research projects I have worked on.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Apart from the research works, when I am not down at the lab, I enjoy my free time mostly by singing. My other hobbies include reading thriller books, playing guitar, experimenting with electronics and electronic gadgets, playing board games, playing basketball, gaming on my PS5, and some more.
