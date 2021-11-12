@@ -7,6 +7,23 @@ nav: true
 order: 3
 ---
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/adib-conf-1.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/adib-conf-2.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/adib-conf-3.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% responsive_image path: assets/img/adib-conf-4.png class: "img-fluid rounded z-depth-1" zoomable: true %}
+    </div>
+</div>
+
+<br>
+
 <div class="news">
   {% if site.news  %}
     <div class="table-responsive">

@@ -43,12 +43,12 @@ og_image: adib-pic.jpg # The site-wide (default for all links) Open Graph previe
 # -----------------------------------------------------------------------------
 
 github_username: adib2149 # your GitHub user name
-gitlab_username: adib2149 # your GitLab user name
+gitlab_username: # adib2149 # your GitLab user name
 twitter_username: adib2149 # your Twitter handle
 linkedin_username: adib2149 # your LinkedIn user name
 scholar_userid: IvqnCIMAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-2855-342X # your ORCID ID
-medium_username: adib2149 # your Medium username
+medium_username: # adib2149 # your Medium username
 quora_username: Riddhiman-Adib # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: Riddhiman-Adib-2 # your profile on ResearchGate
@@ -59,7 +59,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: true
+rss_icon: false
 
 contact_note: >
   E-mail is the best way to get in touch with me.
