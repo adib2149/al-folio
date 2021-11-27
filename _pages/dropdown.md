@@ -8,4 +8,6 @@ children:
       permalink: /research/
     - title: publications
       permalink: /publications/
+    - title: others
+      permalink: /others/
 ---

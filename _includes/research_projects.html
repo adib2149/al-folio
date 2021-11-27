@@ -1,0 +1,20 @@
+<hr>
+<div class="row">
+    <div class="col-md-4">
+        {% responsive_image_block %}
+          path: {{ r_project.img | prepend: 'assets/img/' }}
+          class: "img-fluid z-depth-1 rounded"
+          zoomable: true
+        {% endresponsive_image_block %}
+    </div>
+    <div class="col-md-8">
+        <h4>{{ r_project.title }}</h4>
+        <p>{{ r_project.description }}</p>
+        <span>Publications:</span>
+        <ul style="font-size:12px;">
+        {% for pub in r_project.publications %}
+            <li>{{ pub }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>
