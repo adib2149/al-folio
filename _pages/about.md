@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in Computer Science at Marquette University, currently at my 4th year, working as a Graduate Research Assistant at the Ubicomp Lab.
+I am a Ph.D. candidate in Computer Science at Marquette University, currently at my final year, working as a Graduate Research Assistant at the Ubicomp Lab.
 
 Working under the supervision of my Ph.D. Supervisor, [Dr. Sheikh Iqbal Ahamed](http://www.mscs.mu.edu/~iq/){:target='\_blank'}, and with direct guidance from [Dr. Mohammad Adibuzzaman](https://adibzaman.github.io/){:target='\_blank'}, I am actively working in the field of Causal Inference. My primary focus is to apply `Causal Inference` and related theories in exploring cause-and-effect relationships in experimental and observational datasets. In the past, I have worked on multiple projects involving `mobile health and computing`, `ubiquitous computing`, `crisis management`, etc. Here’s a [list](https://adib2149.github.io/research) of all the research projects I have worked on.
 
