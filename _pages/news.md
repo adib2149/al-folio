@@ -29,7 +29,6 @@ order: 3
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
-      {% assign last_item_year = "now" | date: "%Y" %}
       {% for item in news %}
         <tr>
           <th scope="row" style='width: 100px;'>{{ item.date | date: "%b %-d, %Y" }}</th>
