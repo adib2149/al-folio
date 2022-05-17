@@ -7,7 +7,7 @@ nav: true
 order: 3
 ---
 
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/adib-conf-1.jpg class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
@@ -22,10 +22,10 @@ order: 3
     </div>
 </div>
 
-<br>
+<br> -->
 
 <div class="news">
-  {% if site.news  %}
+  <!-- {% if site.news  %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
@@ -45,5 +45,31 @@ order: 3
     </div>
   {% else %}
     <p>No news so far...</p>
-  {% endif %}
+  {% endif %} -->
+
+  <!-- <ul>
+  {% for news_hash in site.data.news %}
+  {{ news_hash }}
+  {% assign newsitem = news_hash[1] %}
+    <li>
+      Title:{{ newsitem }}
+    </li>
+  {% endfor %}
+  </ul> -->
+
+  {% assign news_templates = site.data.news_templates %}
+  {{ news_templates }}
+
+  {% assign years = site.data.news %}
+  {% for news_list in years %}
+    <ul>
+      <li>{{ news_list[0] }}</li>
+      <ul>
+        {% for news in news_list[1] %}
+        <li>{{ news.title }}</li>
+        {% endfor %}
+      </ul>
+    </ul>
+  {% endfor %}
+
 </div>
