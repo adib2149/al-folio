@@ -6,7 +6,7 @@ description: General updates of my study, research and publications.
 nav: false
 ---
 
-<b>`Causal Inference`, `Computing for mHealth`, `Structural Causal Models`, `Transportability`, `Experimental Studies`, `Electronic Health Records`, `Artificial Intelligence`, `Machine Learning`, `Data Science`</b>
+<b>`Causal Inference`, `Computing for mHealth`, `Structural Causal Models`, `Transportability`, `Experimental Studies`, `Electronic Health Records`, `Artificial Intelligence`, `Machine Learning`, `Data Science`, `public health`, `health informatics`, `AI in Healthcare`</b>
 
 I was introduced to the world of `Causal Inference` <i>(by Dr. Adibuzzaman)</i> in 2018. I was immediately hooked to the fascinating works of Pearl, Elias, Rubin, Hernan, and many other researchers working relentlessly in this field. It has been a rabbit hole from there, and the more I learn, the more I find there is left to answer. I firmly believe Causal Inference is going to be one of the strongest pillars of data science in the next decades, and that is why I have decided to pursue this and make it my Ph.D. dissertation work. 
 
