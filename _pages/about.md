@@ -13,12 +13,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently an Informatics Postdoctoral Researcher at [Oregon Clinical & Translational Research Institute (OCTRI)](https://www.ohsu.edu/octri) in [Oregon Health & Science University (OHSU)](https://www.ohsu.edu), Portland, Oregon, U.S.A. I am also a Marquette alumni, an ex-BUETian, and an ex-cadet.
+I am currently an Informatics Postdoctoral Researcher at [Oregon Clinical & Translational Research Institute (OCTRI)](https://www.ohsu.edu/octri) in [Oregon Health & Science University (OHSU)](https://www.ohsu.edu), Portland, Oregon, U.S.A. I am also a Marquette alumnus, an ex-BUETian, and an ex-cadet.
 
-My research area aims to apply `data-driven causal explorations`; my vision is to improve `public health`, `health informatics`, and overall healthcare research. `AI in Healthcare` is an evolving and ever-expanding discipline, and I would love to contribute to that with the bit of knowledge and ideas I have. Currently, I am actively working in the field of `Causal Inference`; my primary focus is to apply Causal Inference and related theories in exploring cause-and-effect relationships in experimental and observational datasets.
+I have 5+ years of research experience in Machine Learning & Data Science for healthcare; as well as software development & engineering. I have had 15+ publications and service as reviewer in 10+ conferences and journals in the Healthcare and Machine Learning domain. Currently, I am actively working in the field of `Causal Inference`; my primary focus is to apply Causal Inference and related theories in exploring cause-and-effect relationships in experimental and observational datasets.
 
-<!-- I have completed my Ph.D. in Computer Science from Marquette University, my undergrad (B.Sc.) in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology (BUET), and my high-school from Jhenidah.  -->
+My research goals aim to achieve `data-driven causal explorations`, mostly for `Electronic Healthcare Data` My primary tools are `Structural Causal Models`, `Propensity Score Matching`, `A/B Testing` and a little bit of `Do-Why`.  
 
-Apart from the research works, I enjoy my free time mostly by singing. My other hobbies include reading thriller books, playing guitar, experimenting with electronics and electronic gadgets, playing board games, playing basketball, gaming on my PS5, hiking, and some more.
-
-
+Outside research activities, I destress mostly by singing. My other hobbies include playing guitar, reading thriller books, playing board games, PS5 games & basketball, and some more.
