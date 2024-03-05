@@ -1,8 +1,10 @@
 github_users:
+  - adib2149
   - torvalds
   - alshedivat
 
 github_repos:
+  - adib2149/adib2149.github.io
   - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
