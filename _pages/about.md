@@ -22,6 +22,6 @@ I am currently a Sr. Research Engineer at [Oregon Clinical & Translational Resea
 
 I have 5+ years of research experience in Machine Learning & Data Science for healthcare; as well as software development & engineering. I have had 15+ publications and service as reviewer in 10+ conferences and journals in the Healthcare and Machine Learning domain. Currently, I am actively working in the field of `Causal Inference`; my primary focus is to apply Causal Inference and related theories in exploring cause-and-effect relationships in experimental and observational datasets.
 
-My research goals aim to achieve `data-driven causal explorations`, mostly for `Electronic Healthcare Data` My primary tools are `Structural Causal Models`, `Propensity Score Matching`, `A/B Testing` and a little bit of `Do-Why`.  
+My research goals aim to achieve `data-driven causal explorations`, mostly for `Electronic Healthcare Data` My primary tools are `Structural Causal Models`, `Propensity Score Matching`, `A/B Testing` and a little bit of `Do-Why`.
 
 Outside research activities, I destress mostly by singing. My other hobbies include playing guitar, reading thriller books, playing board games, PS5 games & basketball, and some more.
