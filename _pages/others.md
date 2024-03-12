@@ -38,11 +38,12 @@ nav: false
 
 <h3>Live Applications</h3>
 <ul>
-    <li><a href="https://play.google.com/store/apps/details?id=com.harriken" target="_blank">Harriken</a> <i>(Restaurant discovery android app based in Dhaka, Bangladesh)</i></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.stayfocused.stayfocused" target="_blank">Stay Focused</a> <i>(Goal-focused to-do list android app with reminders)</i></li>
-    <li><a href="https://www.fieldforce.meghdut.io/" target="_blank">Meghdut Fieldforce</a> <i>(Field-level task distribution and management app, for android)</i></li>
+    <li><a href="https://www.crunchbase.com/organization/harriken" target="_blank">Harriken</a> <i>(Restaurant discovery android app based in Dhaka, Bangladesh)</i></li>
+    <li><a href="https://web.archive.org/web/20240312192900/https://futurestartup.com/2016/11/25/meghdut-launches-fieldforce/" target="_blank">Meghdut Fieldforce</a> <i>(Field-level task distribution and management app, for android)</i></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.renata_ltd.android" target="_blank">APPothecary</a> <i>(Android app for healthcare: medicine, doctor, reminder management)</i></li>
     <li><a href="https://play.google.com/store/apps/developer?id=Dryhootch+of+America" target="_blank">QRF Mentor and Veteran</a> <i>(Android client for collaboration and communication between peer mentors and veterans)</i></li>
-    <li><a href="http://world-in-360.herokuapp.com/" target="_blank">World-in-360</a> <i>(Web application to showcase 360 degree panaromic images)</i></li>
+    <li>World-in-360 <i>(Web application to showcase 360 degree panaromic images)</i></li>
+    <li>Stay Focused<i>(Goal-focused to-do list android app with reminders)</i></li>
+    <!-- <li><a href="http://world-in-360.herokuapp.com/" target="_blank">World-in-360</a> <i>(Web application to showcase 360 degree panaromic images)</i></li> -->
 </ul>
 

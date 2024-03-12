@@ -34,7 +34,7 @@ order: 2
 <ul>
     <li>PH559x: Causal Diagrams: Draw Your Assumptions Before Your Conclusions (<a href="https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your-conclusions" target="_blank">Link</a>) (<a href="https://courses.edx.org/certificates/f044031abf9f4d8881d69b1c6fc9acec" target="_blank">Certificate</a>)</li>
     <li>Neural Netwroks and Deep Learning (<a href="https://www.coursera.org/learn/neural-networks-deep-learning" target="_blank">Link</a>) (<a href="https://www.coursera.org/account/accomplishments/verify/A33ZF4MHWDMR" target="_blank">Certificate</a>)</li>
-    <li>An Introduction to Interactive Programming in Python (Part 1) (<a href="https://www.coursera.org/learn/interactive-python-1" target="_blank">Link</a>) (<a href="{{ '/assets/pdf/coursera_cert_python.pdf' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Certificate</a>)</li>
+    <li>An Introduction to Interactive Programming in Python (Part 1) (<a href="https://www.coursera.org/learn/interactive-python-1" target="_blank">Link</a>) (<a href="/assets/pdf/coursera_cert_python.pdf" target="_blank">Certificate</a>)</li>
     <li>Programming Mobile Applications for Android Handheld Systems: Part 1 & 2 (<a href="https://www.coursera.org/learn/android-programming" target="_blank">Link</a>) (<a href="https://www.coursera.org/account/accomplishments/records/DLT6SW67WU" target="_blank">Certificate</a>)</li>
 </ul>
 

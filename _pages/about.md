@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher. Problem Solver. Tech Enthusiast. Self-proclaimed Musician. Goes by "<u>Riddhi</u>". (<a href="/assets/img/name_in_bengali.png" target="blank">my name in Bengali</a>)
+subtitle: Researcher. Problem Solver. Tech Enthusiast. Self-proclaimed Musician. Goes by "<u>Riddhi</u>". (<a href="/assets/img/name_in_bengali.png" target="_blank">my name in Bengali</a>)
 
 profile:
   align: right
