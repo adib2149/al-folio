@@ -26,9 +26,9 @@ nav: false
 
 ## Live Applications
 
-- [Harriken](https://www.crunchbase.com/organization/harriken") *(Restaurant discovery android app based in Dhaka, Bangladesh)*
-- [Meghdut Fieldforce](https://web.archive.org/web/20240312192900/https://futurestartup.com/2016/11/25/meghdut-launches-fieldforce/") *(Field-level task distribution and management app, for android)*
-- [APPothecary](https://play.google.com/store/apps/details?id=com.renata_ltd.android") *(Android app for healthcare: medicine, doctor, reminder management)*
-- [QRF Mentor and Veteran](https://play.google.com/store/apps/developer?id=Dryhootch+of+America") *(Android client for collaboration and communication between peer mentors and veterans)*
+- [Harriken](https://www.crunchbase.com/organization/harriken) *(Restaurant discovery android app based in Dhaka, Bangladesh)*
+- [Meghdut Fieldforce](https://web.archive.org/web/20240312192900/https://futurestartup.com/2016/11/25/meghdut-launches-fieldforce/) *(Field-level task distribution and management app, for android)*
+- [APPothecary](https://play.google.com/store/apps/details?id=com.renata_ltd.android) *(Android app for healthcare: medicine, doctor, reminder management)*
+- [QRF Mentor and Veteran](https://play.google.com/store/apps/developer?id=Dryhootch+of+America\) *(Android client for collaboration and communication between peer mentors and veterans)*
 - World-in-360 *(Web application to showcase 360 degree panaromic images)*
 - Stay Focused*(Goal-focused to-do list android app with reminders)*
