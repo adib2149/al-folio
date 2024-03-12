@@ -6,44 +6,29 @@ description: A brief review of additional projects I have worked on.
 nav: false
 ---
 
-<h3>Presentations and Posters</h3>
+## Presentations and Posters
 
-<ul>
-    <li><a href="/assets/pdf/causal_inference_invited_talk_spring2021.pdf">Presentation slides</a> for invited talk on <i>"Introduction to Causal Inference"</i> for COSC 5931/4931 Machine Learning Principles, Spring 2021 at Marquette University</li>
-    <li><a href="/assets/pdf/ML4HC_causal_hr_estimation.pdf">Poster</a> and <a href="https://youtu.be/SNuG2SJR-nc">recorded talk</a> for <i>"A Causally Formulated Hazard Ratio Estimation through Backdoor Adjustment on Structural Causal Model"</i> in MLHC 2020</li>
-    <li><a href="/assets/pdf/compsac_2019_HappyDB.pdf">Presentation slides</a> for <i>"Analyzing Happiness: Investigation on Happy Moments using a Bag-of-words Approach and Related Ethical Discussions"</i> in Compsac 2019</li>
-    <li><a href="/assets/pdf/compsac_2019_ipeer.pdf">Presentation slides</a> for <i>"Towards Predicting Risky Behavior among Veterans with PTSD by Analyzing Gesture Patterns"</i> in Compsac 2019</li>
-    <li><a href="/assets/pdf/forward_thinking_prior_knowledge.pdf">Poster</a> for <i>"“Is Haloperidol effective in Delirium treatment?”: Answering Treatment and Policy Controversies in Healthcare through Prior Knowledge-driven Structural Causal Model Generation"</i> in Forward Thinking Poster Session 2020</li>
-    <li><a href="/assets/pdf/forward_thinking_causal_inference.pdf">Poster</a> for <i>"Causal Exploration on Large Healthcare Datasets through Emulation of Randomized Controlled Trials: An Application on Delirium Patients in the ICU"</i> in Forward Thinking Poster Session 2019</li>
-    <li><a href="/assets/pdf/marquee_care.pdf">Poster</a> for <i>"MARQUECare: Information Technology Tools and a System for Palliative Care for Everyone"</i> in Healthy People on a Healthy Planet Conference</li>
-    <li><a href="/assets/pdf/forward_thinking_wifi.pdf">Poster</a> for <i>"Non-invasive Human Identification using Wi-fi Signals"</i> in Forward Thinking Poster Session 2017</li>
-</ul>
+- [Presentation slides](/assets/pdf/causal_inference_invited_talk_spring2021.pdf) for invited talk on *"Introduction to Causal Inference"* for COSC 5931/4931 Machine Learning Principles, Spring 2021 at Marquette University
+- [Poster](/assets/pdf/ML4HC_causal_hr_estimation.pdf) and [recorded talk](https://youtu.be/SNuG2SJR-nc) for *"A Causally Formulated Hazard Ratio Estimation through Backdoor Adjustment on Structural Causal Model"* in MLHC 2020
+- [Presentation slides](/assets/pdf/compsac_2019_HappyDB.pdf) for *"Analyzing Happiness: Investigation on Happy Moments using a Bag-of-words Approach and Related Ethical Discussions"* in Compsac 2019
+- [Presentation slides](/assets/pdf/compsac_2019_ipeer.pdf) for *"Towards Predicting Risky Behavior among Veterans with PTSD by Analyzing Gesture Patterns"* in Compsac 2019
+- [Poster](/assets/pdf/forward_thinking_prior_knowledge.pdf) for *"“Is Haloperidol effective in Delirium treatment?”: Answering Treatment and Policy Controversies in Healthcare through Prior Knowledge-driven Structural Causal Model Generation"* in Forward Thinking Poster Session 2020
+- [Poster](/assets/pdf/forward_thinking_causal_inference.pdf) for *"Causal Exploration on Large Healthcare Datasets through Emulation of Randomized Controlled Trials: An Application on Delirium Patients in the ICU"* in Forward Thinking Poster Session 2019
+- [Poster](/assets/pdf/marquee_care.pdf) for *"MARQUECare: Information Technology Tools and a System for Palliative Care for Everyone"* in Healthy People on a Healthy Planet Conference
+- [Poster](/assets/pdf/forward_thinking_wifi.pdf) for *"Non-invasive Human Identification using Wi-fi Signals"* in Forward Thinking Poster Session 2017
 
----
+## Open Source Projects
 
-<h3>Open Source Projects</h3>
-<ul>
-    <li>
-        <a href="https://github.com/adib2149/BottomNavBar" target="_blank">BottomNavBar</a> <i>(~200 Stars)</i>
-        <i> - Android library to add bottom navigation bar to application</i>
-    </li> 
-    <li>
-        <a href="https://github.com/adib2149/FormMaster" target="_blank">FormMaster</a> <i>(~150 Stars)</i>
-        <i> - Android library to easily build and use larger forms</i>
-    </li>
-    
-</ul>
+- [BottomNavBar](https://github.com/adib2149/BottomNavBar) *(~200 Stars)*
+  - Android library to add bottom navigation bar to application*
+- [FormMaster](https://github.com/adib2149/FormMaster) *(~150 Stars)*
+  - Android library to easily build and use larger forms*
 
----
+## Live Applications
 
-<h3>Live Applications</h3>
-<ul>
-    <li><a href="https://www.crunchbase.com/organization/harriken" target="_blank">Harriken</a> <i>(Restaurant discovery android app based in Dhaka, Bangladesh)</i></li>
-    <li><a href="https://web.archive.org/web/20240312192900/https://futurestartup.com/2016/11/25/meghdut-launches-fieldforce/" target="_blank">Meghdut Fieldforce</a> <i>(Field-level task distribution and management app, for android)</i></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.renata_ltd.android" target="_blank">APPothecary</a> <i>(Android app for healthcare: medicine, doctor, reminder management)</i></li>
-    <li><a href="https://play.google.com/store/apps/developer?id=Dryhootch+of+America" target="_blank">QRF Mentor and Veteran</a> <i>(Android client for collaboration and communication between peer mentors and veterans)</i></li>
-    <li>World-in-360 <i>(Web application to showcase 360 degree panaromic images)</i></li>
-    <li>Stay Focused<i>(Goal-focused to-do list android app with reminders)</i></li>
-    <!-- <li><a href="http://world-in-360.herokuapp.com/" target="_blank">World-in-360</a> <i>(Web application to showcase 360 degree panaromic images)</i></li> -->
-</ul>
-
+- [Harriken](https://www.crunchbase.com/organization/harriken") *(Restaurant discovery android app based in Dhaka, Bangladesh)*
+- [Meghdut Fieldforce](https://web.archive.org/web/20240312192900/https://futurestartup.com/2016/11/25/meghdut-launches-fieldforce/") *(Field-level task distribution and management app, for android)*
+- [APPothecary](https://play.google.com/store/apps/details?id=com.renata_ltd.android") *(Android app for healthcare: medicine, doctor, reminder management)*
+- [QRF Mentor and Veteran](https://play.google.com/store/apps/developer?id=Dryhootch+of+America") *(Android client for collaboration and communication between peer mentors and veterans)*
+- World-in-360 *(Web application to showcase 360 degree panaromic images)*
+- Stay Focused*(Goal-focused to-do list android app with reminders)*
