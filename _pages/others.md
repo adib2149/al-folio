@@ -20,9 +20,9 @@ nav: false
 ## Open Source Projects
 
 - [BottomNavBar](https://github.com/adib2149/BottomNavBar) _(~200 Stars)_
-  - Android library to add bottom navigation bar to application_
+  - Android library to add bottom navigation bar to application
 - [FormMaster](https://github.com/adib2149/FormMaster) _(~150 Stars)_
-  - Android library to easily build and use larger forms_
+  - Android library to easily build and use larger forms
 
 ## Live Applications
 
@@ -31,4 +31,4 @@ nav: false
 - [APPothecary](https://play.google.com/store/apps/details?id=com.renata_ltd.android) _(Android app for healthcare: medicine, doctor, reminder management)_
 - [QRF Mentor and Veteran](https://play.google.com/store/apps/developer?id=Dryhootch+of+America\) _(Android client for collaboration and communication between peer mentors and veterans)_
 - World-in-360 _(Web application to showcase 360 degree panaromic images)_
-- Stay Focused_(Goal-focused to-do list android app with reminders)_
+- Stay Focused _(Goal-focused to-do list android app with reminders)_
