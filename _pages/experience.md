@@ -9,7 +9,8 @@ order: 2
 
 <h3>Work Experiences</h3>
 <ul>
-    <li>Sr. Research Engineer, OCTRI, OHSU (November 2023-ongoing)</li>
+    <li>Research Scientist III, CHCQ, CDPH (April 2024-ongoing)</li>
+    <li><i>Former</i> Sr. Research Engineer, OCTRI, OHSU (November 2023-April 2024)</li>
     <li><i>Former</i> Informatics Postdoctoral Researcher, OCTRI, OHSU (June 2022-November 2023)</li>
     <li><i>Former</i> Graduate Research Assistant, Ubicomp Lab (Summer 2018-Spring 2019, Fall 2019-Spring 2021)</li>
     <li><i>Former</i> Graduate Teaching Assistant for Calculus 1, Calculus 2, Programming Languages & Intro to Programming at Marquette University (Fall 2017-Spring 2018, Fall 2021-Spring 2022)</li>
