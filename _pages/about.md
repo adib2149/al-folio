@@ -31,4 +31,4 @@ Outside research activities, I destress mostly by singing. My other hobbies incl
 
 ---
 
-*The contents, including all opinions and views expressed or implied, are entirely personal and do not necessarily represent the opinions or views of any other person or organization including the California Department of Public Health. The California Department of Public Health has not reviewed or approved, and is not responsible for, the material contained in this profile.*
+_The contents, including all opinions and views expressed or implied, are entirely personal and do not necessarily represent the opinions or views of any other person or organization including the California Department of Public Health. The California Department of Public Health has not reviewed or approved, and is not responsible for, the material contained in this profile._
