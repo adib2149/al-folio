@@ -1,6 +1,8 @@
 github_users:
   - adib2149
 
+repo_description_lines_max: 2
+
 github_repos:
   - adib2149/BottomNavBar
   - adib2149/FormMaster
