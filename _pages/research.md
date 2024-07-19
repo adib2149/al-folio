@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: research
 description: General updates of my study, research and publications.
-nav: true
+nav: false
 ---
 
 **`Causal Inference`, `Computing for mHealth`, `Structural Causal Models`, `Transportability`, `Experimental Studies`, `Electronic Health Records`, `Artificial Intelligence`, `Machine Learning`, `Data Science`, `public health`, `health informatics`, `AI in Healthcare`**

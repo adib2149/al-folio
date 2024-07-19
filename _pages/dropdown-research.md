@@ -7,10 +7,10 @@ dropdown: true
 children:
   - title: summary
     permalink: /research/
-  - title: divider
   - title: publications
     permalink: /publications/
-  - title: divider
+  - title: repositories
+    permalink: /repositories/
   - title: others
     permalink: /others/
 ---
