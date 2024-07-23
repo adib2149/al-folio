@@ -16,6 +16,4 @@ children:
     permalink: /boardgames/
   - title: blog
     permalink: /blog/
-  - title: others
-    permalink: /other-hobbies/
 ---
