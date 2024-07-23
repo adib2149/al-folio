@@ -105,5 +105,4 @@ nav: false
             Arcs: scoring
         </div>
     </div>
-
 </div>

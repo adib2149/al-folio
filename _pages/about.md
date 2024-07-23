@@ -28,7 +28,6 @@ My research goals aim to achieve `data-driven causal explorations`, mostly for `
 
 Outside research activities, I destress mostly by singing. My other hobbies include playing guitar, reading thriller books, playing board games, PS5 games & basketball, and some more. Please visit my [hobbies page](/hobbies) to read more on this.
 
-
 ---
 
 _The contents, including all opinions and views expressed or implied, are entirely personal and do not necessarily represent the opinions or views of any other person or organization including the California Department of Public Health. The California Department of Public Health has not reviewed or approved, and is not responsible for, the material contained in this profile._
