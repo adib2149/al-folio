@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently  a Research Scientist III, in the Data and Analytics Division within the Epidemiological Research Section, at the [Center for Health Care Quality](https://www.cdph.ca.gov/Programs/CHCQ/Pages/CHCQHome.aspx), [California Department of Public Health](https://www.cdph.ca.gov/). I am also a Marquette alumnus, an ex-BUETian, and an ex-cadet.
+I am currently a Research Scientist III, in the Data and Analytics Division within the Epidemiological Research Section, at the [Center for Health Care Quality](https://www.cdph.ca.gov/Programs/CHCQ/Pages/CHCQHome.aspx), [California Department of Public Health](https://www.cdph.ca.gov/). I am also a Marquette alumnus, an ex-BUETian, and an ex-cadet.
 
 <!-- I am currently a Sr. Research Engineer at [Oregon Clinical & Translational Research Institute (OCTRI)](https://www.ohsu.edu/octri) in [Oregon Health & Science University (OHSU)](https://www.ohsu.edu), Portland, Oregon, U.S.A. -->
 

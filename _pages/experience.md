@@ -8,6 +8,7 @@ order: 2
 ---
 
 ## Work Experiences
+
 - Research Scientist III, CHCQ, CDPH (April 2024-ongoing)
 - _Former_ Sr. Research Engineer, OCTRI, OHSU (November 2023-April 2024)
 - _Former_ Informatics Postdoctoral Researcher, OCTRI, OHSU (June 2022-November 2023)
