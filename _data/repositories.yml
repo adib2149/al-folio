@@ -1,6 +1,8 @@
 github_users:
   - riddhimanadib
 
+repo_description_lines_max: 2
+
 github_repos:
   - riddhimanadib/BottomNavBar
   - riddhimanadib/FormMaster
