@@ -14,6 +14,4 @@ children:
     permalink: /filmmaking/
   - title: boardgames
     permalink: /boardgames/
-  - title: blog
-    permalink: /blog/
 ---
