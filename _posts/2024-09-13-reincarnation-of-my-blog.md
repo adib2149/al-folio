@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reincarnation of my blog
+title: Reincarnation of My Blog
 date: 2024-09-13 11:59:00-0400
 description: an example of a blog post with giscus comments
 tags: intro long-covid life tech music
