@@ -18,6 +18,6 @@ For the last year, I have been sick on and off, and although no one really diagn
 
 Due to this issue, I had to slow down my habit of singing, practicing, listening to music, video gaming, and most physical activities. However, I picked some new hobbies. I kind of got into board games and also do a little bit of gardening and fishing.
 
-Finally, I also want to resume writing about my tech stuff, data science & CS knowledge, and general findings about my life. 
+Finally, I also want to resume writing about my tech stuff, data science & CS knowledge, and general findings about my life.
 
-So here goes nothing, hoping for a fresh new start. 
+So here goes nothing, hoping for a fresh new start.
